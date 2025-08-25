@@ -2,7 +2,7 @@
   "Author": "Kisara Nightcore",
   "Name": "Mare Synchronos",
   "InternalName": "Mare Synchronos",
-  "AssemblyVersion": "0.12.00",
+  "AssemblyVersion": "0.11.23",
   "Punchline": "Let others see you as you see yourself.",
   "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
   "ApplicableVersion": "any",

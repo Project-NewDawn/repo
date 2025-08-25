@@ -1,24 +1,26 @@
-{
-  "Author": "darkarcheon",
-  "Name": "Mare Synchronos",
-  "InternalName": "Mare Synchronos",
-  "AssemblyVersion": "0.11.22",
-  "Punchline": "Let others see you as you see yourself.",
-  "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-  "ApplicableVersion": "any",
-  "DalamudApiLevel": 13,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "AcceptsFeedback" true,
-  "RepoUrl": "https://github.com/Project-NewDawn/client",
-  "Tags": [
-    "customization"
-  ],
-  "IsHide": "False",
-  "IsTestingExclusive": "False",
-  "DownloadLinkInstall": "https://github.com/Project-NewDawn/client/releases/download/0.11.22/0.11.22.zip",
-  "DownloadLinkTesting": "https://github.com/Project-NewDawn/client/releases/download/0.11.22/0.11.22.zip",
-  "DownloadLinkUpdate": "https://github.com/Project-NewDawn/client/releases/download/0.11.22/0.11.22.zip"
-}
+[
+  {
+    "Author": "darkarcheon",
+    "Name": "Mare Synchronos",
+    "InternalName": "Mare Synchronos",
+    "AssemblyVersion": "0.11.22",
+    "Punchline": "Let others see you as you see yourself.",
+    "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback" true,
+    "RepoUrl": "https://github.com/Project-NewDawn/client",
+    "Tags": [
+      "customization"
+    ],
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/Project-NewDawn/client/releases/download/0.11.22/0.11.22.zip",
+    "DownloadLinkTesting": "https://github.com/Project-NewDawn/client/releases/download/0.11.22/0.11.22.zip",
+    "DownloadLinkUpdate": "https://github.com/Project-NewDawn/client/releases/download/0.11.22/0.11.22.zip"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "Author": "Kisara Nightcore",
+  "Author": "darkarcheon",
   "Name": "Mare Synchronos",
   "InternalName": "Mare Synchronos",
   "AssemblyVersion": "0.11.23",
@@ -15,5 +15,10 @@
   "RepoUrl": "https://github.com/Project-NewDawn/client",
   "Tags": [
     "customization"
-  ]
+  ],
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.11.22.zip",
+  "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.11.22.zip",
+  "DownloadLinkUpdate": "https://cf.maresynchronos.com/update/0.11.22.zip"
 }
